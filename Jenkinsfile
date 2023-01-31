@@ -19,6 +19,7 @@ pipeline {
                 echo 'Deploying...'
                 echo"adding"
                 echo"cloning"
+                echo"multiplying
             }
         }
     }
